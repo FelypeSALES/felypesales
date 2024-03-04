@@ -1,6 +1,6 @@
  olá esse é meu perfil, seja bem vindo 👍
 
- meu nome é felype sales
+ meu nome é Felype Sales
  
  -estou estudando na plataforma [alura]_(https://www.alura.com.br)
  
